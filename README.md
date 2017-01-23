@@ -7,7 +7,39 @@
 	<link rel="stylesheet" href="css/style.css">
 
 </head>
+<script> 
+html {
+		font-size: 10px;
+	}
 
+	#wrapper {
+		
+
+	}
+	header {
+		height: 1072px;
+		width: 1920px;
+		background-image: url(../img/layer.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center bottom;
+		display: flex;
+		justify-content: center;
+		
+	}
+
+	.bg {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.ellipse {
+		margin-top:15%;
+	}
+	.ellipse>img {
+		
+	}
+	</script>
 <body>
 
 	<div id="wrapper">
